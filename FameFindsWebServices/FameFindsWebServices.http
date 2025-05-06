@@ -1,0 +1,5 @@
+
+GET {{FameFindsWebServices_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
